@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhubenroy43
 - 👀 I’m interested in Programming language. 
-- 🌱 I’m currently learning php.
+- 🌱 currently I’m learning php.
 - 💞️ I’m looking to collaborate on python.
 - 📫 How to reach me ...
 
